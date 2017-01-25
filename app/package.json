@@ -1,0 +1,14 @@
+{
+  "name": "catch-cloud",
+  "productName": "Catch Cloud File Manager",
+  "description": "Care-free file management",
+  "version": "0.0.1",
+  "author": "Mr. Gumby <mr.gumby@example.com>",
+  "copyright": "© 2016, Gumby inc.",
+  "homepage": "http://example.com",
+  "license": "MIT",
+  "main": "background.js",
+  "dependencies": {
+    "fs-jetpack": "^0.9.0"
+  }
+}
